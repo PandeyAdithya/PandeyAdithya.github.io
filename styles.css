@@ -426,7 +426,7 @@ a {
 }
 
 #event-2 {
-  background: linear-gradient(45deg, #78b0d5aa, #7f8b40aa), url('assets\\event-posters\\extempore.jpg');
+  background: linear-gradient(45deg, #78b0d5aa, #7f8b40aa), url('assets\\event-posters\\handmade.jpg');
   background-position: center;
   background-size: cover;
 }
@@ -462,7 +462,7 @@ a {
 }
 
 #event-8 {
-  background: linear-gradient(45deg, #78b0d5aa, #7f8b40aa), url('assets\\event-posters\\shloka.png');
+  background: linear-gradient(45deg, #78b0d5aa, #7f8b40aa), url('assets\\event-posters\\shloka.jpg');
   background-position: center;
   background-size: cover;
 }
